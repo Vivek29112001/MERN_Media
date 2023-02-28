@@ -1,0 +1,43 @@
+This Website is made using MERN Stack.
+
+For Front-End we use:
+				React -> Framework
+				React-router -> Navigation
+				Formik + Yup  ->form validation
+				Redux Toolkit  ->state managment
+				Redux with Persisternt ->store in local storage
+				React-dropzone ->for image drop
+				
+
+For Back-End we use:
+				NodeJS  ->Runtime
+				ExpressJS ->Backend Framework
+				Mongoose  -> For managing mongoos data base
+				JWT     ->Authentication
+				Multer  -> For file Upload
+
+
+
+
+Command used in Terminal:->
+
+Day 1- 
+
+1-	mkdir Server
+2- 	cd Server
+3-	npm i -g nodemon
+4-	npm i express body-parser bcrypt cors dotenv grifs-stream multer multer-gridfs-storage helmet morgan jsonwebtoken mongoose
+	
+	express  ->for Library
+	body-parser -> to process the request body
+	bcrypt  ->for password incription
+	cors	 ->for cross request
+	dotenv  ->for environment variables
+	grifs-stream  ->for file upload
+	multer multer-gridfs-storage  -> for storage the file globaly
+	helmet  ->for request safety
+	morgan  ->For login
+	jsonwebtoken  -> for authentication
+	mongoose   -> For MongoDB access
+
+5-	npm init -y
