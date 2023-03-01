@@ -21,7 +21,7 @@ For Back-End we use:
 
 Command used in Terminal:->
 
-Day 1- 
+Day 1-  Server
 
 1-	mkdir Server
 2- 	cd Server
@@ -41,3 +41,8 @@ Day 1-
 	mongoose   -> For MongoDB access
 
 5-	npm init -y
+
+
+Day 2- Client
+
+ npm i react-redux @reduxjs/toolkit redux-persist react-dropzone dotenv formik yup react-router-dom@6 @mui/material @emotion/react @emotion/styled @mui/icons-material 
